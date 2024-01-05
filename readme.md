@@ -183,9 +183,6 @@ This is how you write a comment in python
 
 ![Maths on python shell](./images/maths_on_python_shell.png)
 
-Before we move on to the next section, let us practice more on the Python interactive shell. Close the opened shell by writing _exit()_ on the shell and open it again and let us practice how to write text on the Python shell.
-
-![Writing String on python shell](./images/writing_string_on_shell.png)
 
 ### Installing Visual Studio Code
 
